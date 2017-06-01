@@ -1,0 +1,33 @@
+{
+  "name": "blog_server",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SkiNy66/blog_server.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/SkiNy66/blog_server/issues"
+  },
+  "dependencies": {
+    "lodash": "~4.17.4",
+    "react": "~15.5.4",
+    "react-dom": "~15.5.4",
+    "babel-preset-stage-2": "~6.24.1",
+    "express": "~4.15.3"
+  },
+  "devDependencies": {
+    "babel-register": "~6.24.1",
+    "babel-core": "~6.24.1",
+    "babel-preset-latest": "~6.24.1",
+    "babel-preset-react": "~6.24.1",
+    "babel-cli": "~6.24.1",
+    "babel-preset-es2015": "~6.24.1"
+  }
+}
